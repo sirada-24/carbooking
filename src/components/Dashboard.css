@@ -1,0 +1,26 @@
+
+.dashboard-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dashboard-header {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .add-car-btn {
+    padding: 10px 20px;
+    background-color: #4c6faf;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-car-btn:hover {
+    background-color: #411d4e;
+  }
+  
+  .car-list {
+    margin-top: 20px;
+  }
